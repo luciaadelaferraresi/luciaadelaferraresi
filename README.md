@@ -1,11 +1,8 @@
 <h1 align="center"><b>Hi , I'm lucia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 - 🔭 I’m currently working on my **Python Course**
-
 - 🌱 I’m currently learning **Python, HTML5 and CSS3**
-
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
-
 - 📫 How to reach me: **brantlauro@gmail.com**
 
 <a target="_blank" align="center">
