@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm lucia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
- 🔭 I’m currently studyng **computer science at university**
+- 🔭 I’m currently studyng **Computer Science at university**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Python and java**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
